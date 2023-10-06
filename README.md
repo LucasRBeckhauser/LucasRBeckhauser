@@ -14,41 +14,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome  é Lucas Roque Beckhauser 
+# 💫 About Me:
+Meu nome  é Lucas Roque Beckhauser. Seja bem vindo ao meu perfil. Como profissional, sou comunicativo, proativo, criativo e organizado. Sempre que necessário exponho minhas ideias com o intuito de agregar no crescimento profissional. Trabalho muito bem com metas e desafios. 
 
-Seja bem vindo ao meu perfil. Como profissional, sou comunicativo, proativo, criativo e organizado. Sempre que necessário exponho minhas ideias com o intuito de agregar no crescimento profissional. Trabalho muito bem com metas e desafios. 
-
-Soft Skills
+# Soft Skills
 
 Comunicação, convencimento, criatividade, proatividade, raciocínio rápido na execução de tarefas,
 comprometimento, assiduidade, ética profissional, maturidade.
 
-## Minhas Redes Sociais
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucasbeckh#2421) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucasbeckhauseradv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-roque-beckhauser-6555a188/) 
 
-[Discord](link para seu perfil do Discord)
-[Instagram](link para seu perfil do Instagram)
-[LinkedIn](link para seu perfil do LinkedIn)
-
-## Minhas Habilidades Técnicas
-
-- Java
-- JavaScript
-- CSS3
-- HTML5
-- Apache Maven
-- MySQL
-- Postgres
-- Figma
-- GIT
-- Postman
-- Spring
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=seu-nome-de-usuario&theme=dark&hide_border=false)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=link for linkedin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=link for linkedin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=link for linkedin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
