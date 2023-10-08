@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-Meu nome  é Lucas Roque Beckhauser. Seja bem vindo ao meu perfil. Como profissional, sou comunicativo, proativo, criativo e organizado. Sempre que necessário exponho minhas ideias com o intuito de agregar no crescimento profissional. Trabalho muito bem com metas e desafios. 
+#  About Me:
+Welcome to my profile. At the moment my focus is developing skills in Java, using Springboot.
 
 # Soft Skills
-
-Comunicação, convencimento, criatividade, proatividade, raciocínio rápido na execução de tarefas,
-comprometimento, assiduidade, ética profissional, maturidade.
+Communication, creativity, proactivity, quick thinking, responsibility, maturity.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucasbeckhauseradv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-roque-beckhauser-6555a188/) 
