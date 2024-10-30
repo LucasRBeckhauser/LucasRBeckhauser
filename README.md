@@ -24,8 +24,7 @@ Communication, creativity, proactivity, quick thinking, responsibility, maturity
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucasbeckhauseradv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-roque-beckhauser-6555a188/) 
 
 
-![LucasRBeckhauser GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRBeckhauser&show_icons=true&theme=radical)
-
+![LucasRBeckhauser GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRBeckhauser&show_icons=true&theme=radical&rand=1)
 
 
 # 💻 Tech Stack:
