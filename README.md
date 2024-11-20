@@ -23,7 +23,7 @@ Communication, creativity, proactivity, quick thinking, responsibility, maturity
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucasbeckhauseradv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-roque-beckhauser-6555a188/) 
 
-[![LucasRBeckhauser](https://github-readme-stats.vercel.app/api?username=LucasRBeckhauser&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![LucasRBeckhauser](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasRBeckhauser&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LucasRBeckhauser](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRBeckhauser&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
